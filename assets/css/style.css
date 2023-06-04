@@ -21,7 +21,7 @@ body {
     justify-content: center;
 }
 
-.button {
+/* .button {
     padding-top: 49px;
 }
 
@@ -43,7 +43,7 @@ body {
     background-color: rgb(255, 255, 255);
     transition: 0.1s;
     box-shadow: 0px 0px 5px 2px #fff;
-}
+} */
 
 .clock {
     display: flex;

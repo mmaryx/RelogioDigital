@@ -22,3 +22,9 @@ const clock = setInterval(function time() {
     minutes.textContent = min;
     seconds.textContent = s;
 })
+
+// const tema = document.querySelector(".time");
+
+// function theme() {
+//     time.style.color = "red";
+// }
