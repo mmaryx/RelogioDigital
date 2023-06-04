@@ -1,1 +1,1 @@
-@Olá! Este é um estudo de JavaScript. Nesse projeto criei um relógio digital utilizando HTML/CSS/JS. 
+@ Olá! Este é um estudo de JavaScript. Nesse projeto criei um relógio digital utilizando HTML/CSS/JS. 
