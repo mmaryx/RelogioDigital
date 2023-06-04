@@ -9,22 +9,29 @@
 </head>
 <body>
     <main class="container">
-        <article>
-            <section id="hour">00</section>
-            <section class="time">Horas</section>
-        </article>
-
-        <article>
-            <section id="minute">00</section>
-            <section class="time">Minutos</section>
-        </article>
-
-        <article>
-            <section id="second">00</section>
-            <section class="time">Segundos</section>
-        </article>
+        <div class="clock">
+            <article>
+                <section id="hours">00</section>
+                <section class="time">Hours</section>
+            </article>
+    
+            <article>
+                <section id="minutes">00</section>
+                <section class="time">Minutes</section>
+            </article>
+    
+            <article>
+                <section id="seconds">00</section>
+                <section class="time">Seconds</section>
+            </article>
+        </div>
+        <div class="button">
+            <button onclick="theme()">Tema Claro</button>
+        </div>
     </main>
+    
 
     <script src="assets/js/script.js"></script>
+    <script src="assets/js/button.js"></script>
 </body>
 </html>
