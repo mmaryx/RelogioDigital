@@ -1,1 +1,1 @@
-# Olá! Este é um estudo de JavaScript. Nesse projeto criei um relógio digital utilizando HTML/CSS/JS. #
+# Hello! This is a study of JavaScript. In this project I created a digital clock using HTML/CSS/JS. #
